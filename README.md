@@ -1,1 +1,1 @@
-# Coursera
+# A simple Home-page layout
